@@ -1,0 +1,40 @@
+body{
+    
+    background-image: linear-gradient(to right,  rgb(8, 16, 70),rgb(0, 52, 64))
+    
+}
+h1{
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    font-size: 6rem;
+    color: #FAF0E4;
+    text-shadow: 5px 0px  rgb(27, 33, 53);
+    margin-bottom: 0px;
+}
+h2{
+    color: #FAF0E4;
+    text-shadow: 5px 0px  rgb(27, 33, 53);
+}
+.dice{
+    font-weight: 700;
+    color: #FAF0E4;
+    display: inline-block;
+    padding: 20px;
+    font-family:cursive;
+    font-size: 2rem;
+   
+}
+.players{
+    
+    text-align: center;
+}
+img{
+    width: 60%;
+}
+footer{
+    color: #FCFFB2;
+    font-family: 'Acme', sans-serif;
+}
+.dice{
+    padding-bottom: 100px;
+}
